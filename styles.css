@@ -1,9 +1,0 @@
-
-body{margin:0;font-family:'Segoe UI',sans-serif;background:#fffaf7;color:#333;}
-.brand{font-family:'Great Vibes',cursive;font-size:4em;}
-.hero{background-color:#EAB8B1;padding:60px 20px;text-align:center;}
-.cta{background:#CCB3A3;color:white;padding:10px25px;text-decoration:none;border-radius:5px;display:inline-block;}
-.gallery{text-align:center;padding:40px20px;}
-.gallery-grid{display:flex;flex-wrap:wrap;justify-content:center;gap:15px;}
-.gallery-grid img{width:180px;height:auto;border-radius:10px;}
-footer{background:#CCB3A3;color:white;text-align:center;padding:20px;}
